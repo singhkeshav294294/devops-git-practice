@@ -18,3 +18,5 @@ git diff - it is used to check the diff made in file after commit happened.
 git diff --staged - it is used to check the diff made after being staged.
 
 pulling test
+
+fetch test
