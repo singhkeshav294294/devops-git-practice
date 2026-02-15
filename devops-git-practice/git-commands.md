@@ -16,3 +16,5 @@ git log --oneline - to check the logs in one short line.
 git diff - it is used to check the diff made in file after commit happened.
 
 git diff --staged - it is used to check the diff made after being staged.
+
+pulling test
