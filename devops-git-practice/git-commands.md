@@ -20,3 +20,5 @@ git diff --staged - it is used to check the diff made after being staged.
 pulling test
 
 fetch test
+
+fetch +merger test
